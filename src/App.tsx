@@ -31,7 +31,7 @@ function App() {
         </div>
 
         <div className="flex items-center gap-5 ">
-          <a href="mailto:info@ecoccruise.com" className="text-base cursor-pointer hover:text-blue-600 transition duration-300">Support/help</a>
+          <a href="mailto:info@ecocruise.org" className="text-base cursor-pointer hover:text-blue-600 transition duration-300">Support/help</a>
           <div>
             <a href="https://github.com/Danraph-Technologies/Ecocruise-apk/releases/download/v1.0.0/Ecocruise-App.apk" download>
               <button className="py-2 cursor-pointer px-4 text-base bg-blue-700 border-blue-700 text-white font-medium rounded-3xl hover:bg-transparent  hover:text-blue-700  border-2  transition duration-500">
@@ -44,7 +44,7 @@ function App() {
 
       <div className="flex sm:hidden items-center justify-between mx-2 ">
         <div>
-          <a href="mailto:info@ecoccruise.com" className="cursor-pointer text-base hover:text-blue-600 transition duration-300">Support</a>
+          <a href="mailto:info@ecocruise.org" className="cursor-pointer text-base hover:text-blue-600 transition duration-300">Support</a>
         </div>
         <div className="max-w-32">
           {" "}
@@ -302,8 +302,8 @@ function App() {
           <p className="font-semibold sm:text-[21px] text-[17px] ">
             Get in Touch
           </p>
-          <a href="mailto:info@ecoccruise.com" className="font-medium sm:text-base text-sm py-3 hover:text-blue-600 transition duration-300">
-            info@ecoccruise.com
+          <a href="mailto:info@ecocruise.org" className="font-medium sm:text-base text-sm py-3 hover:text-blue-600 transition duration-300">
+            info@ecocruise.org
           </a>
           <p className="font-medium sm:text-base text-sm ">+6221.2002.2012</p>
         </div>
@@ -318,11 +318,11 @@ function App() {
 
         <div className="min-w-[200px] sm:min-w-0 mt-0 sm:mt-5">
           <p className="font-semibold sm:text-[21px] text-[17px]">Support</p>
-          <a href="mailto:info@ecoccruise.com" className="font-normal sm:text-lg text-base py-3 hover:text-blue-600 transition duration-300 cursor-pointer block">Contact Us</a>
-          <a href="mailto:info@ecoccruise.com" className="font-normal sm:text-lg text-base pb-3 hover:text-blue-600 transition duration-300 cursor-pointer block">
+          <a href="mailto:info@ecocruise.org" className="font-normal sm:text-lg text-base py-3 hover:text-blue-600 transition duration-300 cursor-pointer block">Contact Us</a>
+          <a href="mailto:info@ecocruise.org" className="font-normal sm:text-lg text-base pb-3 hover:text-blue-600 transition duration-300 cursor-pointer block">
             Support center
           </a>
-          <a href="mailto:info@ecoccruise.com" className="font-normal sm:text-lg text-base hover:text-blue-600 transition duration-300 cursor-pointer block">Feedback</a>
+          <a href="mailto:info@ecocruise.org" className="font-normal sm:text-lg text-base hover:text-blue-600 transition duration-300 cursor-pointer block">Feedback</a>
         </div>
 
         <div className="min-w-[200px] sm:min-w-0 mt-0 sm:mt-5">
