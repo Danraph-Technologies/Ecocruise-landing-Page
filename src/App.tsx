@@ -305,7 +305,7 @@ function App() {
           <a href="mailto:info@ecocruise.org" className="font-medium sm:text-base text-sm py-3 hover:text-blue-600 transition duration-300">
             info@ecocruise.org
           </a>
-          <p className="font-medium sm:text-base text-sm ">+6221.2002.2012</p>
+          <p className="font-medium sm:text-base text-sm py-3 ">+6221.2002.2012</p>
         </div>
 
         <div className="min-w-[200px] sm:min-w-0 mt-0 sm:mt-5">
