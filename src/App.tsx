@@ -309,7 +309,7 @@ function App() {
             <a href="tel:+19177956392" className="hover:text-blue-600 block transition duration-300">+1(917)-795-6392</a>
             <br className="block sm:hidden" />
             <span className="hidden sm:inline"> </span>
-            <a href="tel:+2348033706559" className="hover:text-blue-600 py-2 block transition duration-300">+234(803)-370-6559</a>
+            <a href="tel:+2348033706559" className="hover:text-blue-600 py-1 block transition duration-300">+234(803)-370-6559</a>
             <br className="block sm:hidden" />
             <span className="hidden sm:inline"> </span>
             <a href="tel:+2348103393608" className="hover:text-blue-600 block transition duration-300">+234(810)-339-3608</a>
