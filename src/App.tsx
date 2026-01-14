@@ -305,11 +305,11 @@ function App() {
           <a href="mailto:info@ecocruise.org" className="font-medium sm:text-base text-sm py-3 hover:text-blue-600 transition duration-300">
             info@ecocruise.org
           </a>
-          <div className="font-medium sm:text-base text-sm py-2 block ">
+          <div className="font-medium sm:text-base text-sm py-2 block  ">
             <a href="tel:+19177956392" className="hover:text-blue-600 block transition duration-300">+1(917)-795-6392</a>
             <br className="block sm:hidden" />
             <span className="hidden sm:inline"> </span>
-            <a href="tel:+2348033706559" className="hover:text-blue-600 block transition duration-300">+234(803)-370-6559</a>
+            <a href="tel:+2348033706559" className="hover:text-blue-600 py-2 block transition duration-300">+234(803)-370-6559</a>
             <br className="block sm:hidden" />
             <span className="hidden sm:inline"> </span>
             <a href="tel:+2348103393608" className="hover:text-blue-600 block transition duration-300">+234(810)-339-3608</a>
