@@ -354,10 +354,10 @@ function App() {
         <div className="flex flex-col items-center">
           <div className="flex flex-wrap gap-2 sm:gap-3  ">
             <a href="https://github.com/Danraph-Technologies/Ecocruise-apk/releases/download/v1.0.0/Ecocruise-App.apk" download>
-              <div className="max-w-[140px] cursor-pointer"> <img src="/Apple.png" alt="" className="w-full" /></div>
+              <div className="max-w-[130px] cursor-pointer"> <img src="/Apple.png" alt="" className="w-full" /></div>
             </a>
             <a href="https://github.com/Danraph-Technologies/Ecocruise-apk/releases/download/v1.0.0/Ecocruise-App.apk" download>
-              <div className="max-w-[200px] cursor-pointer"><img src="/Playstore.png" alt="" className="w-full" /></div>
+              <div className="max-w-[195px] cursor-pointer"><img src="/Playstore.png" alt="" className="w-full" /></div>
             </a>
 
           </div>
