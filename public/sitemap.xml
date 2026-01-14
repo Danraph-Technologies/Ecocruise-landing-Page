@@ -12,12 +12,6 @@
     <priority>1.0</priority>
   </url>
   
-  <!-- App Download Page (main landing page) -->
-  <url>
-    <loc>https://www.ecocruise.org/download</loc>
-    <lastmod>2026-01-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+ 
   
 </urlset>
