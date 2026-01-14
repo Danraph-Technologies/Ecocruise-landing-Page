@@ -261,9 +261,9 @@ function App() {
 
           <div>
             <div className="max-w-[549px] mt-4 xl:mt-24 foot:mt-4 ">
-              <h1 className="font-semibold text-[25px] sm:text-[40px] mb-2">
+              <h2 className="font-semibold text-[25px] sm:text-[40px] mb-2">
                 Log in to see your recent activity
-              </h1>
+              </h2>
               <p className="font-normal sm:text-lg text-[15px]">
                 {" "}
                 Stay updated with your latest rides, completed trips, and upcoming
@@ -359,10 +359,10 @@ function App() {
           <div className="flex flex-col items-center">
             <div className="flex flex-wrap gap-2 sm:gap-3  ">
               <a href="https://github.com/Danraph-Technologies/Ecocruise-apk/releases/download/v1.0.0/Ecocruise-App.apk" download>
-                <div className="max-w-[130px] cursor-pointer"> <img src="/Apple.png" alt="" className="w-full" /></div>
+                <div className="max-w-[130px] cursor-pointer"> <img src="/Apple.png" alt="Applestore download" className="w-full" /></div>
               </a>
               <a href="https://github.com/Danraph-Technologies/Ecocruise-apk/releases/download/v1.0.0/Ecocruise-App.apk" download>
-                <div className="max-w-[195px] cursor-pointer"><img src="/Playstore.png" alt="" className="w-full" /></div>
+                <div className="max-w-[195px] cursor-pointer"><img src="/Playstore.png" alt="Playstore download" className="w-full" /></div>
               </a>
 
             </div>
