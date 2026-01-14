@@ -5,6 +5,7 @@ Allow: /
 Allow: /src/
 Allow: /public/
 Allow: /Favicon/
+Allow: /googlec8749c549c41f793.html
 
 # Block common non-content files
 Disallow: /node_modules/
